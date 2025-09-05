@@ -1,0 +1,6 @@
+[submodule "services/UserManagementService"]
+	path = services/UserManagementService
+	url = git@github.com:Tudor-Gavriliuc/UserManagementService.git
+[submodule "services/NotificationService"]
+	path = services/NotificationService
+	url = git@github.com:Tudor-Gavriliuc/NotificationService.git
